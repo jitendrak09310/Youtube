@@ -9,7 +9,7 @@ public class RotateString {
 		int n = 5;
 
 		String rotated = rotateByKthPosition(str, n);
-		
+
 		System.out.println(rotated);
 
 	}
